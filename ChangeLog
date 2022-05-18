@@ -1,0 +1,28 @@
+2022-05-18  Kazuhiko Kiriyama  <kiri@truefc.org>
+
+	* ALL: 最初のコンテンツのコミット
+
+	.gitignore: コミットしないファイルリスト
+	404.md: ページが見付からないときのエラーページ
+	ChangeLog: 変更履歴
+	Gemfile: gem ファイル
+	README.md: README ファイル
+	_config.yml: コンフィギュレーションファイル
+	_data: ユーザーデータディレクトリ
+	   |
+	   +- projects.yml: 「主な活動」の一覧
+	_posts: ブログデータ(「最近の活動」)ディレクトリ
+	   |
+	   +- 2022-02-27-２月例会.md: ２月例会の概要
+	   |
+	   +- 2022-03-20-３月例会.md: ３月例会の概要
+	   |
+	   +- 2022-04-30-４月例会.md: ４月例会の概要
+	blog.md: 「最近の活動」ページ
+	index.md: メインページ
+	project.md: 「主な活動」ページ
+	search.json: 検索スクリプト
+	test-page.md: テストページ
+	
+
+
