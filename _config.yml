@@ -1,0 +1,58 @@
+# Site theme is WhatATheme
+theme: jekyll-theme-whatatheme
+
+# URL of the Site
+#url: 'https://www.gengi.org/'
+
+# Menu bars and buttons
+home: ホーム
+about: 本会について
+contact: 連絡
+blog: 最近の活動
+more: その他
+contact_me: 連絡を取る
+read_more: もっと見る
+ping_me_on_messenger: メッセンジャーで直接連絡
+send_me_an_email: メールを送る
+tweet_me_on_twitter: ツイッターでツィートする
+back_to_top: トップに戻る
+
+# Site's Descriptions
+have_a_good_read: ご一読ください
+search_here: 検索
+you_can_find_me_here: ここからでも連絡できます
+more_links: 参照
+subscribe_via_rss: RSS 経由で購読
+recent_posts: 最近の投稿
+
+# Title of the Site
+title: 現代技術史研究会
+# Description of the Site
+description: 過去に学び、現在を凝視め、未来を考える
+
+# Name of the Author
+author-name: 事務局
+# URL for the Image of the Author
+author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+# 60 Words About the Author
+author-about: 現代技術史研究会は、現代の技術問題および 技術史に関心をもつ技術者（民間および官公庁）、大 学教員、ジャーナリスト等が集まる研究会です。技術、産業、事故、環境問題、あるいは技術と人間の問題などについて、専門分野を超えた自由な討論を行っています。テーマごとの分科会、例会、会誌・会報の発行、春の総会・合宿、研究成果 の出版などの活動を行っています。研究会の目的は、「技術発展への広い見識」、「技術と社会の関係」、「勤労者の立場・視点からの技術」、「技術者の社会的位置と役割」などを強く意識した研究を探求することとしています（会則）。
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://www.gengi.org/
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: gengishiken@gmail.com
+facebook_username: gengishiken 
+twitter_username: gengishiken
+instagram_username: gengishiken
+linkedin_username: ""
+github_username: gengishiken
+youtube_channel_id: UCSsKf76Kq8-mnojPh6v3sxQ
+reddit_username: ""
+behance_username: ""
+dribbble_username: ""
+spotify_username: ""
+
+# Disqus
+disqus-shortname: gengi
+
