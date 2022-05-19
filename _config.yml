@@ -1,5 +1,6 @@
 # Site theme is WhatATheme
-theme: jekyll-theme-whatatheme
+#theme: jekyll-theme-whatatheme
+remote-theme: thedevslot/WhatATheme
 
 # URL of the Site
 #url: 'https://www.gengi.org/'
