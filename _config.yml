@@ -1,6 +1,6 @@
 # Site theme is WhatATheme
 #theme: jekyll-theme-whatatheme
-remote-theme: TrueFC/jekyll-theme-whatatheme
+remote_theme: TrueFC/jekyll-theme-whatatheme
 
 # URL of the Site
 #url: 'https://www.gengi.org/'
