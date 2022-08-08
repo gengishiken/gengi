@@ -1,6 +1,6 @@
 # Site theme is WhatATheme
 #theme: jekyll-theme-whatatheme
-remote_theme: TrueFC/jekyll-theme-whatatheme
+remote_theme: gengishiken/jekyll-theme-whatatheme
 
 # URL of the Site
 #url: 'https://www.gengi.org/'
@@ -30,6 +30,8 @@ recent_posts: 最近の投稿
 title: 現代技術史研究会
 # Description of the Site
 description: 過去に学び、現在を凝視め、未来を考える
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Name of the Author
 author-name: 事務局
